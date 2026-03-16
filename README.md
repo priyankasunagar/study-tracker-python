@@ -1,4 +1,5 @@
 # 📚 Study Tracker (Python CLI Project)
+This project helps students track their study hours and monitor progress using a simple command-line interface.
 
 A simple command-line Python application that allows students to record their study sessions and track how many hours they spend on each subject.
 
